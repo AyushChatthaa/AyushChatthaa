@@ -32,4 +32,4 @@
 
 <h2>⚡ Github Contributions 👇</h2>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayushchatthaa&theme=material-palenight&hide_border=true)](https://github.com/ayushchatth
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayushchatthaa&theme=material-palenight&hide_border=true)]
