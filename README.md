@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Ayush Choudhary <img src="https://tenor.com/en-IN/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" height="30px" width="30px"></h1>
+<h1 align="center">Hey there, I'm Ayush Choudhary <img src="hi.gif" height="30px" width="30px"></h1>
 <h3 align="center">Developer 👨‍💻 | Programmer 👨‍💻 | </h3>
 <h3>📫 Lets Connect 🤝</h3>
 
